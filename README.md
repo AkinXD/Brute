@@ -7,7 +7,7 @@ $ pkg install python git
 
 $ pip install requests bs4 futures
 
-$ rm -rf Brute
+$ rm -rf Prem
 
 $ git clone https://github.com/Samsudin17/Prem
 
