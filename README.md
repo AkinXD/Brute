@@ -7,11 +7,14 @@ $ pkg install python git
 
 $ pip install requests bs4 futures
 
-$ rm -rf Prem
+$ rm -rf Brute
 
-$ git clone https://github.com/Samsudin17/Prem
+pip install ipaddr
 
+$ git clone https://github.com/Samsudin17/Brute
 
-$ cd $HOME/Prem
+$ git pull
+
+$ cd Brute
 
 $ python run.py
