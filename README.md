@@ -11,7 +11,7 @@ $ rm -rf Brute
 
 pip install ipaddr
 
-$ git clone https://github.com/Samsudin17/Brute
+$ git clone https://github.com/AkinXD/Brute
 
 $ git pull
 
